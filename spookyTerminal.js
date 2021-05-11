@@ -32,6 +32,7 @@
                 this.echo("You’re gonna have to find a clue in this code - ");
                 this.echo("it’s been cHaNgInG aT tHe mOLecULaR LeVeL!");
                 this.echo("Just kidding not kidding, inspect the console for clues.");
+                this.echo();
                 mes = "You found it out - the townspeople are all in the Hex! You need to talk to them after the Halloween costume contest.\n";
                 mes += "Don’t forget, the passphrase to temporarily break the spell is ‘cHaNgInG aT tHe mOLecULaR LeVeL’. Go back now.";
                 console.log(mes);
