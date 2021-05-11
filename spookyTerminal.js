@@ -1,4 +1,11 @@
 (function () {
+
+    
+    // You're peeking in the source code, aren't you? How clever.
+    // You don't need to be here, now go back.
+
+
+
     let msg = "************************************************************\n";
     msg += "S.W.O.R.D \n";
     msg += "Top Secret Communique. \n";
